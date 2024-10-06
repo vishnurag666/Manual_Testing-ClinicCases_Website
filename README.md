@@ -1,12 +1,12 @@
 # Quantum-Code-Avengers_075
 
 ## Introduction
-In this Project we test the ClinicCases Website to Ensure it is functioning without any issues
+This Project overviews the Clinic Cases Web Application's testing approach, strategies, and scope. It includes details such as the project's scope, objectives, test deliverables, and reports.
 
 ## Project Type
 Manual Testing
 
-## Deplolyed App
+## Tested App
 Clinic Cases: https://www.cliniccases.com/
 
 
@@ -55,9 +55,9 @@ POST /api/items - create a new item
 
 
 ## Technology Stack
-List and provide a brief overview of the technologies used in the project.
+Tools Used In this Project
 
-- Node.js
-- Express.js
-- MongoDB
-- Other libraries/modules
+- Jira
+- Zephyr
+- Google Sheet
+- Google Doc
