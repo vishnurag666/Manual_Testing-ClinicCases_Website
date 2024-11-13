@@ -1,4 +1,4 @@
-# Quantum-Code-Avengers_075
+# MANUAL TESTING
 
 ## Introduction
 This Project overviews the Clinic Cases Web Application's testing approach, strategies, and scope. It includes details such as the project's scope, objectives, test deliverables, and reports.
